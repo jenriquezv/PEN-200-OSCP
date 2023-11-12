@@ -22,4 +22,8 @@ cat <FILE> | grep -i "^[0-9]" | cut -d '/' -f 1 | xargs | sed 's/\ /,/g'
 comando 1
 elian
 
+
+
+
+
 ![image](images/1.png)
